@@ -97,7 +97,7 @@ Los mockups y diseños UX/UI pueden consultarse en:
 
 ---
 
-📂 Repositorios
+## 📂 Repositorios
 
 La organización Nostos cuenta con los siguientes repositorios:
 
