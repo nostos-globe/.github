@@ -67,6 +67,7 @@ La versión web de **Nostos** complementa la aplicación móvil permitiendo la g
 
 Los mockups y diseños UX/UI pueden consultarse en:
 [Figma](https://www.figma.com/design/dQzP9PxhQrfF7ZerZCRAfM/Nostos?node-id=0-1&t=iKaFaeeLMzz7InOQ-1)
+![Mockup](https://github.com/user-attachments/assets/a2c627b4-371c-4e7d-8cee-864645080190)
 
 ---
 
