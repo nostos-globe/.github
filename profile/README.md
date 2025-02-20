@@ -66,7 +66,7 @@ La versión web de **Nostos** complementa la aplicación móvil permitiendo la g
 ## 💭 Mockup y Diseño
 
 Los mockups y diseños UX/UI pueden consultarse en:
-[Figma]([https://www.figma.com/design/dQzP9PxhQrfF7ZerZCRAfM/Nostos?node-id=0-1&t=iKaFaeeLMzz7InOQ-1]) _(Ejemplo, actualizar según corresponda)._
+[Figma](https://www.figma.com/design/dQzP9PxhQrfF7ZerZCRAfM/Nostos?node-id=0-1&t=iKaFaeeLMzz7InOQ-1)
 
 ---
 
@@ -97,6 +97,27 @@ Los mockups y diseños UX/UI pueden consultarse en:
 
 ---
 
+📂 Repositorios
+
+La organización Nostos cuenta con los siguientes repositorios:
+
+App: Código fuente de la aplicación en React Native (móvil y web en un solo repositorio).
+
+Config: Archivos de configuración necesarios para Docker Compose y la infraestructura de los contenedores.
+
+Landing Page: Código de la Landing Page y promoción de la aplicación.
+
+Auth Service: Gestión de autenticación, JWT y seguridad.
+
+User Service: Manejo de perfiles, seguidores y datos de usuario.
+
+Album Service: Creación y administración de álbumes de viaje.
+
+Likes Service: Registro y optimización de likes.
+
+Notification Service: Envío de notificaciones en tiempo real.
+
+---
 ## 📍 Roadmap / Trello / Gantt
 
 Para seguimiento del desarrollo:
@@ -105,6 +126,4 @@ Para seguimiento del desarrollo:
 - **Diagrama de Gantt:** En la carpeta `docs/roadmap`.
 
 ---
-
-Este README centraliza toda la información clave de **Nostos**, sirviendo como referencia para desarrolladores y colaboradores del proyecto.
 
