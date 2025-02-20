@@ -1,10 +1,4 @@
-# Nostos - Aplicación de Álbumes de Viaje 3D
-
-Bienvenido al repositorio central de la organización **Nostos**, donde se gestionan todos los repositorios del proyecto, incluyendo la aplicación móvil, la versión web, los microservicios backend, la configuración de contenedores y la landing page.
-
----
-
-## 📚 Explicación de la Idea del Proyecto
+# Nostos
 
 **Nostos** es una aplicación que permite a los usuarios crear álbumes de viaje en forma de globos 3D, almacenando fotos y videos de sus experiencias. Los álbumes pueden ser personales, compartidos o públicos, y cuentan con funcionalidades sociales como likes, seguidores y notificaciones en tiempo real. La aplicación está diseñada para ser usada principalmente en dispositivos móviles, pero también contará con una versión web.
 
@@ -23,7 +17,7 @@ Bienvenido al repositorio central de la organización **Nostos**, donde se gesti
 ## 🌐 Tecnologías Usadas
 
 ### Backend y Microservicios
-- Lenguajes: Go, Node.js (según el servicio).
+- Lenguajes: Go, Node.js
 - Contenedores: Docker + Docker Compose.
 - API Gateway: Traefik.
 - Seguridad: Vault (HashiCorp), JWT.
@@ -36,6 +30,10 @@ Bienvenido al repositorio central de la organización **Nostos**, donde se gesti
 - Monitoreo: Prometheus, Grafana, Loki.
 
 ---
+
+### App
+- Lenguajes: React Native
+- Monitoreo: Prometheus, Grafana, Loki.
 
 ## 📈 Diagramas
 
