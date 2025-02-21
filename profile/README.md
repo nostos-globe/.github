@@ -127,21 +127,37 @@ Likes Service: Registro y optimización de likes.
 Notification Service: Envío de notificaciones en tiempo real.
 
 ---
-## 📍 Roadmap / Trello / Gantt
-
-Para seguimiento del desarrollo:
-
-- **Roadmap del Proyecto:** [Roadmap_de_Issues__Filtrados_.csv](https://github.com/user-attachments/files/18912806/Roadmap_de_Issues__Filtrados_.csv)
-- **Diagrama de Gantt:** En la carpeta `docs/roadmap`.
-# 📌 Project Roadmap
+## 📌 Project Roadmap
 
 Este es el roadmap actual basado en los issues de Linear.
 
-| Issue ID | Title | Status  | Priority | Phase |
-|----------|-------------------------------|---------|----------|----------------------|
-{% for index, row in roadmap_filtered_df.iterrows() %}
-| {{ row["Issue ID"] }} | {{ row["Title"] }} | {{ row["Status"] }} | {{ row["Priority"] }} | {{ row["Phase"] or 'N/A' }} |
-{% endfor %}
+| Issue ID | Title | Description | Status | Priority | Phase | Due Date |
+|----------|------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------|----------|---------------------------------|---------|
+| PRO-1 | Choose technologies | _Sin descripción_ | Backlog | No priority | N/A | N/A |
+| PRO-2 | Branding | _Sin descripción_ | Backlog | No priority | N/A | N/A |
+| PRO-3 | Think functionalities | _Sin descripción_ | Backlog | No priority | N/A | N/A |
+| PRO-4 | Define Pages | Cuando este issue esté completo, se crearán issues individuales para cada página definida, detallando su contenido. | Backlog | No priority | N/A | N/A |
+| PRO-8 | Conduct Market Research on Existing Apps | Investigación y análisis de aplicaciones de diarios de viaje existentes para identificar características, fortalezas, debilidades y puntos problemáticos de los usuarios. | Done | High | Phase 1: Planning and Requirements Analysis | N/A |
+| PRO-10 | List common features and unique offerings in competitor apps. | _Sin descripción_ | Done | Low | Phase 1: Planning and Requirements Analysis | N/A |
+| PRO-11 | Define Functional and Non-Functional Requirements | Recopilar requisitos detallados para la aplicación, cubriendo aspectos funcionales y no funcionales como rendimiento, seguridad y escalabilidad. | Done | Medium | Phase 1: Planning and Requirements Analysis | N/A |
+| PRO-12 | Define Extra Key Features | _Sin descripción_ | Done | Medium | Phase 1: Planning and Requirements Analysis | N/A |
+| PRO-14 | Select Technology Stack | Investigación y selección del mejor stack tecnológico para frontend, backend y bases de datos. | Done | Urgent | Phase 1: Planning and Requirements Analysis | N/A |
+| PRO-15 | Branding of the App | _Sin descripción_ | Done | Medium | Phase 1: Planning and Requirements Analysis | N/A |
+| PRO-16 | Choose a name for the app | Selección de un nombre para la aplicación que refleje su propósito, funcionalidad y audiencia objetivo. | Done | Low | Phase 1: Planning and Requirements Analysis | N/A |
+| PRO-17 | Create an image of the idea | Crear una imagen o animación breve de cada idea previamente descrita, mostrando la apariencia de la aplicación y su relación con el usuario. | Done | Medium | Phase 1: Planning and Requirements Analysis | N/A |
+| PRO-18 | Class Diagram | Creación del diagrama de clases para definir las entidades, sus atributos y métodos, asegurando una estructura clara del sistema. | Done | No priority | Phase 2: Design and Architecture | N/A |
+| PRO-19 | Resumed Abstraction of the idea | Resumir y definir los términos clave que explican el propósito del proyecto. | Done | No priority | Phase 2: Design and Architecture | N/A |
+| PRO-20 | Sequence Diagram | Creación del diagrama de secuencia para visualizar interacciones entre objetos y eventos en el sistema. | Done | No priority | Phase 2: Design and Architecture | N/A |
+| PRO-21 | Case Diagrams | Creación de diagramas de casos de uso para ilustrar la interacción del usuario con el sistema. | Done | No priority | Phase 2: Design and Architecture | N/A |
+| PRO-22 | PMBOK | Aplicación y revisión de PMBOK en la documentación del proyecto. | Done | No priority | Phase 2: Design and Architecture | N/A |
+| PRO-23 | Mockup - Screens | Diseño visual de la interfaz de usuario en forma de mockups. | In Progress | No priority | Phase 2: Design and Architecture | N/A |
+| PRO-24 | Screen - Get Started | _Sin descripción_ | Done | No priority | Phase 2: Design and Architecture | N/A |
+| PRO-25 | Screen - Sign Up | _Sin descripción_ | Done | No priority | Phase 2: Design and Architecture | N/A |
+| PRO-26 | Screen - Log In | _Sin descripción_ | Done | No priority | Phase 2: Design and Architecture | N/A |
+| PRO-27 | Screen - Home/Notifications | _Sin descripción_ | Done | No priority | Phase 2: Design and Architecture | N/A |
+| PRO-28 | Screen - Explore/Photo View | _Sin descripción_ | In Progress | No priority | Phase 2: Design and Architecture | N/A |
+| PRO-29 | Screen - Add | _Sin descripción_ | In Progress | No priority | Phase 2: Design and Architecture | N/A |
+| PRO-30 | Screen - Globe View/Card View/Photo View | _Sin descripción_ | In Progress | No priority | Phase 2: Design and Architecture | N/A |
 
 ---
 
@@ -151,8 +167,6 @@ Este es el roadmap actual basado en los issues de Linear.
 - ⏳ **Backlog**: Pendiente
 - ❌ **Canceled**: Cancelado
 
-📅 **Última actualización**: {{ fecha_actual }}
+📅 **Última actualización**: 2025-02-21
 
 ---
-
-_Si quieres contribuir o sugerir cambios, revisa los issues abiertos en nuestro [repositorio](https://github.com/tu-organizacion/tu-repo/issues)._
