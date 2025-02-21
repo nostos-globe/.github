@@ -24,8 +24,8 @@
 - Base de Datos: PostgreSQL.
 - Cache: Redis.
 - Almacenamiento de Medios: MinIO (compatible con S3).
-- Mensajería: NATS / MQTT (Mosquitto).
-- CI/CD: GitHub Actions, Watchtower.
+- Notificaciones: NATS / MQTT (Mosquitto) "Pendiente de decidir".
+- CI/CD: GitHub Actions.
 - Infraestructura: Raspberry Pi 5 con Cloudflare Tunnel.
 - Monitoreo: Prometheus, Grafana, Loki.
 
@@ -38,7 +38,7 @@
 - Contenedores: Docker + Docker Compose.
 - API Gateway: Traefik.
 - Almacenamiento de Medios: MinIO (compatible con S3).
-- CI/CD: GitHub Actions, Watchtower.
+- CI/CD: GitHub Actions.
 - Infraestructura: Raspberry Pi 5 con Cloudflare Tunnel.
 - Monitoreo: Prometheus, Grafana, Loki.
 
@@ -47,10 +47,14 @@
 ## 📈 Diagramas
 
 - **Arquitectura General:** Diagrama de la infraestructura del sistema.
+![image](https://github.com/user-attachments/assets/34d2ad62-3a41-412d-92af-74b5d7f3e4ef)
+
 - **Casos de Uso:** Interacciones principales de los usuarios con la aplicación.
+![image](https://github.com/user-attachments/assets/d0dd7e47-ef97-4290-9bca-daca02a25a64)
+
 - **Base de Datos:** Esquema de PostgreSQL con relaciones entre entidades.
 
-_Se pueden consultar en la carpeta `docs/diagrams`._
+![image](https://github.com/user-attachments/assets/7118e3a3-01ef-40c6-b4dc-d55d867a92cd)
 
 ---
 
@@ -60,6 +64,8 @@ La versión web de **Nostos** complementa la aplicación móvil permitiendo la g
 
 - **Web App:** [https://app.nostos-globe.me](https://app.nostos-globe.me)
 - **Landing Page:** [https://nostos-globe.me](https://nostos-globe.me)
+
+Ninguna esta disponible actualmente
 
 ---
 
@@ -75,11 +81,11 @@ Los mockups y diseños UX/UI pueden consultarse en:
 
 ## 🎨 Paleta de Colores
 
-- **Azul Profundo:** `#003f5c`
-- **Cian Vibrante:** `#2f4b7c`
-- **Verde Acuático:** `#a05195`
-- **Naranja Suave:** `#d45087`
-- **Gris Claro:** `#f95d6a`
+- **Azul Profundo:** `#a7c7e7`
+- **Cian Vibrante:** `#b3d9d9`
+- **Verde Acuático:** `#b8e0b1`
+- **Naranja Suave:** `#f7e1a5`
+- **Gris Claro:** `#f6f6f4`
 
 ---
 
