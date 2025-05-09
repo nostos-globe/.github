@@ -47,7 +47,8 @@
 ## 📈 Diagramas
 
 - **Arquitectura General:** Diagrama de la infraestructura del sistema.
-![image](https://github.com/user-attachments/assets/34d2ad62-3a41-412d-92af-74b5d7f3e4ef)
+![Sin titulo-2025-05-07-2301(1)](https://github.com/user-attachments/assets/82a88b9d-6668-4a50-bd3a-5a5d1d4a1d9a)
+
 
 - **Casos de Uso:** Interacciones principales de los usuarios con la aplicación.
 ![image](https://github.com/user-attachments/assets/d0dd7e47-ef97-4290-9bca-daca02a25a64)
