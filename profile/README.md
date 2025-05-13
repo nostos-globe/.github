@@ -58,6 +58,30 @@
 ![image](https://github.com/user-attachments/assets/7118e3a3-01ef-40c6-b4dc-d55d867a92cd)
 
 ---
+Aquí tienes un ejemplo de cómo podrías incluir esta información en un archivo README en español:
+
+---
+
+## 🌐 URLs de los Servicios de la Aplicación
+
+La aplicación está compuesta por varios servicios, cada uno accesible a través de las siguientes URLs:
+
+* **Servicio de Autenticación**
+  `auth.nostos-globe.me`
+
+* **Servicio de Perfil de Usuario**
+  `profile.nostos-globe.me`
+
+* **Servicio de Gestión de Viajes**
+  `trips.nostos-globe.me`
+
+* **Servicio de Álbumes de Fotos**
+  `albums.nostos-globe.me`
+
+* **Servicio de Acciones del Usuario**
+  `actions.nostos-globe.me`
+
+---
 
 ## 🖥️ Página Web y Landing Page
 
