@@ -63,10 +63,8 @@
 
 La versión web de **Nostos** complementa la aplicación móvil permitiendo la gestión de álbumes y la exploración de contenido. Además, la landing page proporciona información sobre la aplicación, descargas y comunidad.
 
-- **Web App:** [https://app.nostos-globe.me](https://app.nostos-globe.me)
+- **Web App:** [https://app.nostos-globe.me](https://app.nostos-globe.me) *No disponible
 - **Landing Page:** [https://nostos-globe.me](https://nostos-globe.me)
-
-Ninguna esta disponible actualmente
 
 ---
 
@@ -119,13 +117,13 @@ Landing Page: Código de la Landing Page y promoción de la aplicación.
 
 Auth Service: Gestión de autenticación, JWT y seguridad.
 
-User Service: Manejo de perfiles, seguidores y datos de usuario.
+Profile Service: Manejo de perfiles, seguidores y datos de usuario.
 
 Album Service: Creación y administración de álbumes de viaje.
 
-Likes Service: Registro y optimización de likes.
+Action Service: Registro y optimización de likes y favoritos.
 
-Notification Service: Envío de notificaciones en tiempo real.
+Email Service: Envio de emails.
 
 ---
 ## 📌 Project Roadmap
